@@ -1,2 +1,2 @@
 # my_first_repo
-my first practice repo
+updated my first practice repo
